@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right, aqua, aquamarine, white 98%);
+    padding: 5px;
+    color:#000501;
+}
+button{
+    background-image: linear-gradient(to right, green, Chartreuse, #79C7C5 75%);;
+    color: yellow;
+}
+input{
+    background-color: #99D19C;
+    color: black;
+}
+table{
+    padding: 15px;
+    border: white groove 12px;
+margin-left:25%;
+}
+th{
+    color:black;
+    border:white inset;
+}
+td{
+    border:whitesmoke inset;
+}
